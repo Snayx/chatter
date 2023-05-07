@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "30609614051",
+    "project_id": "fir-chat-app-83c14",
+    "storage_bucket": "fir-chat-app-83c14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30609614051:android:39750434512ea63e9bd1d6",
+        "android_client_info": {
+          "package_name": "com.davidrenyak.chatter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30609614051-dcb1bsg8cafsfhiai8gp7n14q1659mla.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYrK1ytODRCmLnuN7Ss2at2KFn87NzlWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30609614051-dcb1bsg8cafsfhiai8gp7n14q1659mla.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

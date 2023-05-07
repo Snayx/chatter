@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Chatter</string>
+    <string name="login_button_text">LOGIN</string>
+    <string name="login_title">CHATTER</string>
+    <string name="register_now_text">Register Now!</string>
+    <string name="registration_title">REGISTRATION</string>
+    <string name="registration_password_hint">Password</string>
+    <string name="login_password_hint">Password</string>
+    <string name="registration_confirm_password_hint">Confirm password</string>
+    <string name="registration_button_text">Register now!</string>
+    <string name="registration_already_have_account">Click here if you already has an account!</string>
+    <string name="login_email_hint">Email Address</string>
+    <string name="registration_email_hint">Email Address</string>
+    <string name="new_chat">+</string>
+    <string name="logout">Logout</string>
+    <string name="chat">Chat</string>
+    <string name="default_username">Username</string>
+</resources>
